@@ -1,18 +1,46 @@
-title: Your awesome title
-email: your-email@example.com
-description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+title: spir0th
+email: spir.0th.xyz@gmail.com
+description: "I like to develop programs, produce music, and make videos."
+baseurl: "" 
+url: "https://spiroth.github.io"
+
+# SEO settings
+author:
+  name: Gian Borcillo
+  url: https://spiroth.github.io
+twitter:
+  username: spir0th
+  card: summary
+social:
+  name: Feive Gian J. Borcillo
+  links:
+    - https://twitter.com/spir0th
+    - https://www.facebook.com/spir0th
+    - https://github.com/spiroth
+
+# Theme settings
+show_navigation: true
+
+# Front matter settings
+defaults:
+  -
+    scope:
+      path: "" # all files
+    values:
+      layout: default
+  -
+    scope:
+      path: "_posts"
+      type: posts
+    values:
+      permalink: /blogs/:categories/:title:output_ext
+      layout: post
 
 # Build settings
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
   - jekyll-remote-theme
+  - jekyll-seo-tag
   - jekyll-feed
 
 # Exclude from processing.
