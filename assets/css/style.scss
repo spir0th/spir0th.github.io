@@ -38,7 +38,7 @@ ul.navigation {
     height: 24px;
 }
   
-.navigation a:hover, .downloads a:focus {
+.navigation a:hover, .navigation a:focus {
     color: var(--clr-buttons-main-text-hover);
     font-weight: bold;
 }
@@ -47,12 +47,12 @@ ul.navigation {
     background-color: #f0f0f0;
 }
 
-.downloads li + li + li {
+.navigation li + li + li {
     border-right: none;
     width: 89px;
 }
   
-.downloads a strong {
+.navigation a strong {
     font-size: 14px;
     display: block;
     color: var(--clr-h1-and-bold);
