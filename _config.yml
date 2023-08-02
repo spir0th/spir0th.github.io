@@ -20,6 +20,7 @@ social:
 
 # Theme settings
 show_navigation: true
+show_socials: true
 color-scheme: auto-default-dark
 
 # Front matter settings

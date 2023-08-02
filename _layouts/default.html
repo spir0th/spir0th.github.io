@@ -5,6 +5,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <script type="module" src="https://cdn.jsdelivr.net/gh/zerodevx/zero-md@2/dist/zero-md.min.js"></script>
+    <script src="https://kit.fontawesome.com/8747c32da3.js" crossorigin="anonymous"></script>
     <link rel="stylesheet" href="{{ "/assets/css/style.css" | relative_url }}">
     {%if site.color-scheme %}
       <link rel="stylesheet" href="{{ "/assets/css/colors-ColorScheme.css?v=" | replace: "ColorScheme", site.color-scheme | append: site.github.build_revision | relative_url }}">
@@ -31,15 +32,11 @@
         <p>{{ site.description | default: site.github.project_tagline }}</p>
 
         {% if site.show_navigation %}
-        <ul class="navigation">
-          {% for item in site.data.navigation %}
-            {% if page.path == item.url %}
-              <li class="selected"><a href="{{ item.url }}"><strong>{{ item.title }}</strong></a></li>
-            {% else %}
+          <ul class="navigation">
+            {% for item in site.data.navigation %}
               <li><a href="{{ item.url }}"><strong>{{ item.title }}</strong></a></li>
-            {% endif %}
-          {% endfor %}
-        </ul>
+            {% endfor %}
+          </ul>
         {% endif %}
       </header>
       <section>
@@ -48,6 +45,18 @@
 
       </section>
       <footer>
+        {% if site.show_socials %}
+          {% for item in site.data.socials %}
+            <a class="social" href="{{ item.link }}">
+              {% if item.icon-pack == null or item.icon-pack == "" %}
+                <i class="{{ item.icon | prepend: 'fa-brands fa-' }}"></i>
+              {% else %}
+                <i class="{{ item.icon-pack | prepend: 'fa-' }} {{ item.icon | prepend: 'fa-' }}"></i>
+              {% endif %}
+            </a>
+          {% endfor %}
+        {% endif %}
+
         <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
       </footer>
     </div>
