@@ -5,13 +5,18 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" href="{{ "/assets/css/style.css" | relative_url }}">
-    {% include head-custom.html %}
-    {% seo title=false %}
+    {%if site.color-scheme %}
+      <link rel="stylesheet" href="{{ "/assets/css/colors-ColorScheme.css?v=" | replace: "ColorScheme", site.color-scheme | append: site.github.build_revision | relative_url }}">
+    {% else %}
+      <link rel="stylesheet" href="{{ "/assets/css/colors-auto.css?v=" | append: site.github.build_revision | relative_url }}">
+    {% endif %}
     {% if page.title != null and page.title != "" %}
       <title>{{ site.title | append: " - " | append: page.title }}</title>
     {% else %}
       <title>{{ site.title }}</title>
     {% endif %}
+    {% include head-custom.html %}
+    {% seo title=false %}
   </head>
   <body>
     <div class="wrapper">

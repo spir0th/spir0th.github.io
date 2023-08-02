@@ -20,6 +20,7 @@ social:
 
 # Theme settings
 show_navigation: true
+color-scheme: auto-default-dark
 
 # Front matter settings
 defaults:
@@ -37,7 +38,7 @@ defaults:
       layout: post
 
 # Build settings
-remote_theme: pages-themes/minimal@v0.2.0
+remote_theme: godalming123/minimal
 plugins:
   - jekyll-remote-theme
   - jekyll-seo-tag

@@ -7,63 +7,55 @@ ul.navigation {
     list-style: none;
     height: 30px;
     padding: 0;
-    background: #f4f4f4;
-    border-radius:5px;
-    border: 1px solid #e0e0e0;
+    background: var(--clr-buttons-main-bg);
+    border-radius: 5px;
+    border: 1px solid var(--clr-buttons-main-border);
     width: 270px;
-}
-
+  }
+  
 .navigation li {
     width: 89px;
     float: left;
-    border-right: 1px solid #e0e0e0;
+    border-right: 1px solid var(--clr-buttons-main-border);
     height: 30px;
 }
-
-.navigation li .selected {
-    background: #fff;
-}
-
-.navigation li:hover {
-    background: #fff;
-}
-
+  
 .navigation li:first-child a {
     border-radius: 5px 0 0 5px;
 }
-
+  
 .navigation li:last-child a {
     border-radius: 0 5px 5px 0;
 }
-
+  
 .navigation a {
     line-height: 1;
     font-size: 11px;
-    color: #676767;
+    color: var(--clr-buttons-main-text);
     display: block;
     text-align: center;
     padding-top: 6px;
     height: 24px;
 }
-
-.navigation a:hover, .navigation a:focus {
-    color: #675C5C;
+  
+.navigation a:hover, .downloads a:focus {
+    color: var(--clr-buttons-main-text-hover);
     font-weight: bold;
 }
-
+  
 .navigation ul a:active {
     background-color: #f0f0f0;
 }
 
-.navigation li + li + li {
+.downloads li + li + li {
     border-right: none;
     width: 89px;
 }
-
-.navigation a strong {
+  
+.downloads a strong {
     font-size: 14px;
     display: block;
-    color: #222;
+    color: var(--clr-h1-and-bold);
 }
 
 @media print, screen and (max-width: 480px) {
