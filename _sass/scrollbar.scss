@@ -1,0 +1,19 @@
+/* This SASS file fixes the scrollbar's theme by overriding color-scheme */
+
+@media (prefers-color-scheme: light) {
+    :root {
+        color-scheme: light;
+    }
+}
+
+@media (prefers-color-scheme: dark) {
+    :root {
+        color-scheme: dark;
+    }
+}
+
+@media (prefers-color-scheme: auto) {
+    :root {
+        color-scheme: auto;
+    }
+}
