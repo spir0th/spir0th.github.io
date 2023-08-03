@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <script type="module" src="https://cdn.jsdelivr.net/gh/zerodevx/zero-md@2/dist/zero-md.min.js"></script>
     <script src="https://kit.fontawesome.com/8747c32da3.js" crossorigin="anonymous"></script>
-    <link rel="stylesheet" href="{{ "/assets/css/style.css" | relative_url }}">
+    <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
     {%if site.color-scheme %}
       <link rel="stylesheet" href="{{ "/assets/css/colors-ColorScheme.css?v=" | replace: "ColorScheme", site.color-scheme | append: site.github.build_revision | relative_url }}">
     {% else %}
@@ -23,12 +23,11 @@
   <body>
     <div class="wrapper">
       <header>
-        <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
-
         {% if site.logo %}
-          <img src="{{ site.logo | relative_url }}" alt="Logo" />
+          <img class="logo" src="{{ site.logo | relative_url }}" alt="Logo" width="64" height="64" />
         {% endif %}
 
+        <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
         <p>{{ site.description | default: site.github.project_tagline }}</p>
 
         {% if site.show_navigation %}

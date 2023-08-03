@@ -64,6 +64,12 @@ ul.navigation {
     color: gray;
 }
 
+@media (prefers-color-scheme: light) {
+    img.logo {
+        filter: invert(1);
+    }
+}
+
 @media print, screen and (max-width: 480px) {
     .navigation {
         width: 99%;

@@ -19,6 +19,7 @@ social:
     - https://github.com/spiroth
 
 # Theme settings
+logo: /assets/img/logo.png
 show_navigation: true
 show_socials: true
 color-scheme: auto-default-dark
