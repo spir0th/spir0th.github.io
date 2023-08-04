@@ -36,8 +36,9 @@ defaults:
       path: "_posts"
       type: posts
     values:
-      permalink: /blogs/:categories/:title:output_ext
       excerpt_separator: <!-- more -->
+      permalink: /blogs/:categories/:title:output_ext
+      comments: true
       layout: post
 
 # Build settings
