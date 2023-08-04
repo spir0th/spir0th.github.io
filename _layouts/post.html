@@ -10,10 +10,17 @@ layout: default
 <hr>
 
 {{content}}
-
+ 
 {% if page.tags %}
   <small>tags: <em>{{ page.tags | join: "</em> - <em>" }}</em></small>
 {% endif %}
+
+<hr>
+
 {% if page.comments %}
   {% include comments.html %}
+  <small>Comments powered by <a href="https://giscus.app" target="_blank">giscus</a></small>
+  <hr>
+{% else %}
+  <p>Comments for this post has been disabled.</p>
 {% endif %}
