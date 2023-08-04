@@ -46,7 +46,7 @@
       <footer>
         {% if site.show_socials %}
           {% for item in site.data.socials %}
-            <a class="social" href="{{ item.link }}">
+            <a class="social" href="{{ item.link }}" target="_blank">
               {% if item.icon-pack == null or item.icon-pack == "" %}
                 <i class="{{ item.icon | prepend: 'fa-brands fa-' }}"></i>
               {% else %}
