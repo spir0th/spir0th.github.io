@@ -8,7 +8,7 @@ Seriously, what could go wrong with the [COVID-19 outbreak?](https://www.who.int
 
 <!-- more -->
 
-The COVID-19 outbreak is probably the worst experience I've ever suffered, from being so confident to go outside, to being trapped inside our house and forced to use the Internet for most cases (screw u covid).
+The COVID-19 outbreak was probably the worst experience I've ever suffered, from being so confident to go outside, to being depressed and very shy to make friends (screw u covid).
 
 Anyways, I'm going to divide each bad events into chapters that led me into depression and loneliness! (aaugghhh this is gonna be pain)
 
@@ -17,36 +17,30 @@ After the start of year 2020, many countries were locked down and had been imple
 
 Now, this didn't make sense to me. Because I just like to play games at that time and don't wanna get involved with some huge argument about the quarantines online.
 
-What's the problem then? It's the **Government**.
+And because of the outbreak, the government tried to shut down some establishments in various regions, internet cafes have been closed down, and even basketball courts also being closed in order to comply with the COVID-19 precautions and guidelines.
 
-I am not into politics ok, but for sure, the government tried to shut down some establishments in various regions, internet cafes have been closed down, and even basketball courts also being closed in order to comply with the COVID-19 precautions and guidelines.
-
-I was quite happy that [DepED](https://deped.gov.ph) might not even announce school years up to this point. Until [Leonor Briones](https://en.wikipedia.org/wiki/Leonor_Briones), a member of [Secretary of Education](https://en.wikipedia.org/wiki/Secretary_of_Education_(Philippines)), announced that classes for school year 2020-2021 continues. **AAAAAAAA**
-
-After this, my life went downside, and I am now trapped inside our house and very saddened to hear that school year 2020-2021 is happening.
+I was also quite happy that there might not a school year starting up to this point. Until [DepED](https://deped.gov.ph) then a few days later, announced that classes for school year 2020-2021 continues. (rip)
 
 ## The Downsides
-It was August, and it was near at the start of school classes.
+It was mid-2020, and it was at near the start of school year 2020-2021.
 
-But one day, I felt like I didn't wanna go to school at this point. And the only thing I could think of is just code and play games.
+I almost felt like I didn't wanna go to school at this point, because I was so trapped inside our house that I could only think of playing games and coding.
 
-This event probably affected my life as a HUGE downside, because I used to like going to school before. And now I don't.
+After this, a serious madness of ramble happened as the [Road and Traffic Administration](https://www.facebook.com/profile.php?id=100068600627542) tries to block the main road leading to the city.
 
-After this, major break outs have coming out lately, with the [Road and Traffic Administration](https://www.facebook.com/profile.php?id=100068600627542) blocking the main road for pe to go out to the city. A serious madness of ramble happened.
-
-After the next few months, my school grades gradually decreased because of my motivation to do school work has died.
+Then the next few months, my school grades gradually decreased because of my motivation to do school work is no longer there for me. (wow such a big L)
 
 ## Bonus: Infatuated
 **You can skip this story if you would like to.**
 
 I usually don't tell stories about my crushes,
-but this event was so important for me to remember because it actually increased my self-esteem for a bit during the outbreak.
+but this event was so important for me to remember because it actually increased my self-confidence for a bit during the outbreak.
 
 During Summer 2021, I met my step-cousin? or my cousin's stepsister? idk???, but she looked pretty and quiet (i sound like an idiot while writing this).
 
 After a few family bondings, I noticed that she speaks in English and barely uses our native language (Bisaya) and I find it really rare. Because most of the girls I've met and talked so far in my life always use our native language and are having difficult to speak in English.
 
-Then after a few months, she stopped joining us, because idk maybe she's busy or something? Anyway, my cousin then told me that she recently had a relationship with someone. But it did not affect my infatuation however. She's just my crush, not my lover.
+Then after a few months, she stopped joining in our family bondings, because idk maybe she's busy or something? Anyway, my cousin then told me that she recently had a relationship with someone. (sad)
 
 As of writing this, my infatuation for her still didn't stop, and because of her, my interest of pretty girls somewhat increased.
 (don't call me a weirdo just because I like pretty girls)
@@ -62,4 +56,4 @@ So, what has changed to me? To be honest, these days I have been quite fine. But
 
 Probably in the future, I wanted that kind of extrovert personality to return, hehe.
 
-Soo, that's it. That is how my COVID-19 experience happened, it's not how sadder I've been feeling on but rather the bad ways I've carried on during the outbreak. Anyways, bye!
+Soo, that's it. It's not very sad for how I've been feeling but rather the bad ways I've carried along this experience. Anyways, bye!
