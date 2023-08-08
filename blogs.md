@@ -2,7 +2,7 @@
 ---
 
 <ul>
-  {% for post in site.posts reversed %}
+  {% for post in site.posts %}
     <li>
       <small>
         {{ post.date | date: "%-d %B %Y" }}
