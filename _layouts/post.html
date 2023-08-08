@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<small>{{ page.date | date: "%-d %B %Y" }}</small>
+<small>{{ page.date | date: "%-d %B %Y" }} &#9679; {{ page.categories }}</small>
 <h1>{{ page.title }}</h1>
 
 <p class="view">by <a href="{{ page.author.url | default: site.author.url }}">{{ page.author.name | default: site.author.name }}</a></p>
