@@ -37,7 +37,7 @@ defaults:
       type: posts
     values:
       excerpt_separator: <!-- more -->
-      permalink: /blogs/:categories/:title:output_ext
+      permalink: /blogs/:title:output_ext
       comments: true
       layout: post
 
