@@ -1,7 +1,7 @@
 ---
 title: The COVID-19 Experience
-category: Life
-tags: life outbreak virus covid infatuation depression
+category: Life Story
+tags: life stories virus covid depression
 ---
 
 Seriously, what could go wrong with the [COVID-19 outbreak?](https://www.who.int/emergencies/diseases/novel-coronavirus-2019)
