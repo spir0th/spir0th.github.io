@@ -1,7 +1,7 @@
 ---
 title: The COVID-19 Experience
 category: Life Story
-tags: life stories virus covid depression
+tags: life stories
 ---
 
 Seriously, what could go wrong with the [COVID-19 outbreak?](https://www.who.int/emergencies/diseases/novel-coronavirus-2019)
