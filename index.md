@@ -2,7 +2,7 @@
 # Hi!
 ---
 
-<zero-md src="https://raw.githubusercontent.com/spiroth/spiroth/main/README.md">
+<zero-md src="https://raw.githubusercontent.com/spir0th/spir0th/main/README.md">
     <template>
         <link rel="stylesheet" href="{{ "/assets/css/style.css" | relative_url }}">
         {%if site.color-scheme %}
