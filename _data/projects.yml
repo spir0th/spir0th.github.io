@@ -1,4 +1,58 @@
+- name: 0utZer0
+  icon: https://raw.githubusercontent.com/spir0th/0utzero/main/icon.png
+  url: https://github.com/spir0th/0utzero
+  tags:
+    - godot
+    - godot3
+    - fps
+- name: Beaners
+  icon: https://raw.githubusercontent.com/spir0th/beaners/main/game/icon.png
+  url: https://github.com/spir0th/beaners
+  description: Play as beans with your friends!
+  tags:
+    - firstperson
+    - funny
+    - multiplayer
+- name: Computer Simulator
+  icon: https://raw.githubusercontent.com/spir0th/computer-simulator/main/icon.png
+  url: https://github.com/spir0th/computer-simulator
+  download_url: https://github.com/spir0th/computer-simulator/releases/tag/0.1.2
+  description: A simple computer game written in Godot Engine 4.
+  tags:
+    - firstperson
+    - singleplayer
+    - programming
+    - computer
+- name: Disrichie
+  icon: https://cdn.discordapp.com/emojis/1197851580721020988.webp
+  url: https://github.com/spir0th/disrichie
+  download_url: https://github.com/spir0th/disrichie/releases/download/1.0.5/disrichie-1.0.5-installer.exe
+  description: Display custom Rich Presence on Discord!
+  tags:
+    - discord
+    - richpresence
+    - rpc 
+    - customrpc
+- name: KeyLight
+  url: https://github.com/spir0th/keylight
+  description: Lit up your Chinese RGB keyboard on Linux!
+  tags:
+    - keyboard
+    - rgb
+    - linux
+    - x11
+    - tty
+    - wayland
+    - native
 - name: proyekgen
-  url: https://github.com/spiroth/proyekgen
-- name: disrichie
-  url: https://github.com/spiroth/disrichie
+  icon: https://raw.githubusercontent.com/spir0th/proyekgen/main/docs/artwork/gear.png
+  url: https://github.com/spir0th/proyekgen
+  download_url: https://github.com/spir0th/proyekgen/releases/latest
+  description: A project generator written in C++ for developers.
+  tags:
+    - extensible
+    - scriptable
+    - generate
+- name: rgbscroll
+  url: https://github.com/spir0th/rgbscroll
+  description: Toggles the lights of an RGB keyboard on Linux; Succeeded by KeyLight.
