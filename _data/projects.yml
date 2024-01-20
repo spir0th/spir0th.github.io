@@ -56,3 +56,8 @@
 - name: rgbscroll
   url: https://github.com/spir0th/rgbscroll
   description: Toggles the lights of an RGB keyboard on Linux; Succeeded by KeyLight.
+  tags:
+    - keyboard
+    - hardware
+    - rgb
+    - linux
