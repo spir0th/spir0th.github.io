@@ -23,6 +23,14 @@
     - singleplayer
     - programming
     - computer
+- name: Discord GameSDK for CMake
+  url: https://github.com/spir0th/discord-gamesdk-cmake
+  description: A Discord GameSDK library to use for CMake-based projects.
+  tags:
+    - discord
+    - gamesdk
+    - rpc
+    - cmake
 - name: Disrichie
   icon: https://cdn.discordapp.com/emojis/1197851580721020988.webp
   url: https://github.com/spir0th/disrichie
