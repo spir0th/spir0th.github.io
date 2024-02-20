@@ -2,10 +2,13 @@
 layout: default
 ---
 
-<small>{{ page.date | date: "%-d %B %Y" }} &mdash; {{ page.categories }}</small>
+<a href="/blogs">&larr; Go Back</a>
 <h1>{{ page.title }}</h1>
+<p class="view">
+  by <a href="{{ page.author.url | default: site.author.url }}">{{ page.author.name | default: site.author.name }}</a>
+  <small style="float: right;">{{ page.date | date: "%-d %B %Y" }} &mdash; {{ page.categories }}</small>
+</p>
 
-<p class="view">by <a href="{{ page.author.url | default: site.author.url }}">{{ page.author.name | default: site.author.name }}</a></p>
 
 <hr>
 
