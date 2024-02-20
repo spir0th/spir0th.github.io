@@ -3,4 +3,5 @@
 
 @import "{{ site.theme }}";
 @import "./navigation.scss";
-@import "./scrollbar.scss"
+@import "./scrollbar.scss";
+@import "./smoothscroll.scss"
