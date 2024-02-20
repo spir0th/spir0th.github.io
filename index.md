@@ -19,7 +19,7 @@ that I am a fan of:
 - The Sims [2/3/4]
 - Almost all of Valve's games [except the Portal franchise]
 
-Because of video games, I also wanted to make my own, see [Projects.](/projects)
+Because of video games, I also wanted to make my own, see [Projects.](#projects)
 
 ## Education
 - **St. Joseph School**
