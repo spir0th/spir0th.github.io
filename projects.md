@@ -5,7 +5,7 @@
   {% for project in site.data.projects %}
     <li>
 	  {% if project.icon %}
-        <img src="{{ project.icon }}" width="24px" height="24px" />
+        <img src="{{ project.icon | relative_url }}" />
       {% endif %}
 	  <h2>{{ project.name }}</h2>
 	  <p>{{ project.description | default: "No description provided." }}</p>

@@ -1,17 +1,23 @@
 - name: 0utZer0
-  icon: https://raw.githubusercontent.com/spir0th/0utzero/main/icon.png
+  icon: /assets/img/outzero.png
   url: https://github.com/spir0th/0utzero
   description: An unfinished Godot port of 0zero by Iyxan23.
   
+- name: Music
+  icon: /assets/img/music.png
+  url: https://github.com/spir0th/music
+  download_url: https://github.com/spir0th/music/releases/latest
+  description: Intent-based music player for use with File Managers in Android.
+
 - name: Beaners
-  icon: https://raw.githubusercontent.com/spir0th/beaners/main/game/icon.png
+  icon: /assets/img/beans.png
   url: https://github.com/spir0th/beaners
   description: Play as beans with your friends!
 
 - name: Computer Simulator
-  icon: https://raw.githubusercontent.com/spir0th/computer-simulator/main/icon.png
+  icon: /assets/img/comsim.png
   url: https://github.com/spir0th/computer-simulator
-  download_url: https://github.com/spir0th/computer-simulator/releases/tag/0.1.2
+  download_url: https://github.com/spir0th/computer-simulator/releases/latest
   description: A simple computer game written in Godot Engine 4.
 
 - name: Discord GameSDK for CMake
@@ -19,9 +25,9 @@
   description: A Discord GameSDK library to use for CMake-based projects.
 
 - name: Disrichie
-  icon: https://cdn.discordapp.com/emojis/1197851580721020988.webp
+  icon: /assets/img/disrichie.png
   url: https://github.com/spir0th/disrichie
-  download_url: https://github.com/spir0th/disrichie/releases/download/1.0.5/disrichie-1.0.5-installer.exe
+  download_url: https://github.com/spir0th/disrichie/releases/latest
   description: Display custom Rich Presence on Discord!
 
 - name: KeyLight
@@ -29,7 +35,7 @@
   description: Lit up your Chinese RGB keyboard on Linux!
 
 - name: proyekgen
-  icon: https://raw.githubusercontent.com/spir0th/proyekgen/main/docs/artwork/gear.png
+  icon: /assets/img/proyekgen.png
   url: https://github.com/spir0th/proyekgen
   download_url: https://github.com/spir0th/proyekgen/releases/latest
   description: A project generator written in C++ for developers.
