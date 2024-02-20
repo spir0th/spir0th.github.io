@@ -53,10 +53,14 @@ ul.navigation {
     color: var(--clr-h1-and-bold);
 }
 
-.social i {
+.link i {
     font-size: 24px;
     padding: 4px;
     color: gray;
+}
+
+.link i:hover {
+    color: lightgray;
 }
 
 @media (prefers-color-scheme: light) {

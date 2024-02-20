@@ -44,15 +44,8 @@
       </section>
       <footer>
         {% if site.show_socials %}
-          {% for item in site.data.socials %}
-            <a class="social" href="{{ item.link }}" target="_blank">
-              {% if item.icon-pack == null or item.icon-pack == "" %}
-                <i class="{{ item.icon | prepend: 'fa-brands fa-' }}"></i>
-              {% else %}
-                <i class="{{ item.icon-pack | prepend: 'fa-' }} {{ item.icon | prepend: 'fa-' }}"></i>
-              {% endif %}
-            </a>
-          {% endfor %}
+          <a class="link" href="https://github.com/spir0th/spir0th.github.io/issues/new" target="_blank"><i class="fa-solid fa-flag"></i></a>
+		  <a class="link" href="https://github.com/spir0th/spir0th.github.io" target="_blank"><i class="fa-solid fa-code"></i></a>
         {% endif %}
 
         <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
