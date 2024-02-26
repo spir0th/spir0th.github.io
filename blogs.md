@@ -1,7 +1,7 @@
 # Blogs
 ---
 
-<ul>
+<ul class="no-bullets">
   {% for post in site.posts %}
     <li>
       <small>

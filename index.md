@@ -5,7 +5,7 @@
 Hi! I'm Feive Gian Borcillo, a 16-year old Filipino student studying
 at [Illigan Computer Insititute](https://ici.edu.ph). Making tech projects
 has always been my favorite thing in my life, from making simple [Sketchware](https://sketchware.io)
-applications, to [C++ command-line programs](https://github.com/spir0th/proyekgen).
+applications, to various developments.
 
 Producing music is also a hobby of mine, I made some *trash* samples back then and I get
 cringed out whenever I hear them. Taking photos is also my thing, because I don't get bored taking

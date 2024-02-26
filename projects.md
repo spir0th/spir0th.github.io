@@ -1,7 +1,7 @@
 # Projects
 ---
 
-<ul>
+<ul class="no-bullets">
   {% for project in site.data.projects %}
     <li>
 	  {% if project.icon %}
@@ -11,13 +11,10 @@
 	  <p>{{ project.description | default: "No description provided." }}</p>
       <p>
 		{% if project.download_url %}
-			<a href="{{ project.download_url }}" target="_blank">Download</a>
+			<button onclick="redirectInNewTab('{{ project.download_url }}');">Download</button>
         {% endif %}
-		{% if project.url and project.download_url %}
-			&mdash;
-		{% endif %}
 		{% if project.url %}
-			<a href="{{ project.url }}" target="_blank">View source</a>
+			<button onclick="redirectInNewTab('{{ project.url }}');">Source code</button>
 		{% endif %}
 	  </p>
     </li>
