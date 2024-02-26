@@ -1,6 +1,6 @@
 title: spir0th
 email: spir.0th.xyz@gmail.com
-description: "I develop programs, produce music, and make videos."
+description: "I make software."
 baseurl: "" 
 url: "https://spir0th.github.io"
 
@@ -15,7 +15,6 @@ twitter:
 # Theme settings
 logo: /assets/img/logo.png
 show_navigation: true
-show_socials: true
 color-scheme: auto-default-dark
 
 # Front matter settings
@@ -31,7 +30,7 @@ defaults:
       type: posts
     values:
       excerpt_separator: <!-- more -->
-      permalink: /blogs/:title:output_ext
+      permalink: /blogs/:title
       comments: true
       layout: post
 
